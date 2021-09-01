@@ -1,0 +1,19 @@
+.topNav{
+    margin-top: 30px;
+    padding: 10px;
+}
+
+.active-menu-item{
+    font-weight: bolder;
+    
+    color: rgb(8, 2, 22);
+}
+
+.topNav ul {
+    display: flex;
+    list-style-type: none;
+    
+  }
+  .topNav ul li {
+    margin-right: 12px;
+  }
